@@ -1,0 +1,3 @@
+yfinance
+streamlit
+streamlit.components.v1
