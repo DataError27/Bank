@@ -1,3 +1,5 @@
+pandas
+numpy
 yfinance
-streamlit
-streamlit.components.v1
+statsmodels
+altair
