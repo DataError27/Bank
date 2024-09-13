@@ -43,7 +43,7 @@ This project aims to utilise machine learning models to forecast stock prices of
 6. Backtesting - Evaluating models on test data to validate their predictive capability and practical utility.
 7. Deployment - Building a Streamlit application to provide users with an interactive interface for inputting parameters and receiving stock price predictions.
 
-The application was deployed on Streamlit and can be accessed through this [link](https://bank-analyst2.streamlit.app/). A screenshot showing the app is shown below. Please note that this app is only intended for educational purposes and is not a financial advice tool.
+The application was deployed on Streamlit and can be accessed through this [link](https://bank-analyst2.streamlit.app/). A screenshot showing the app is shown below. Please note that this app is intended for educational purposes only and is not a financial advice tool.
 
 
 **FEATURES SELECTION/ADDITION**
