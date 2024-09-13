@@ -38,7 +38,7 @@ This project aims to utilize machine learning models to forecast stock prices of
 **METHODOLOGY**
 
 1. Preprocessing - Cleaning and aligning data, feature engineering technical indicators.
-2. EDA - Data visualisation to identify trends, seasonality, and relationships between variables.
+2. EDA - Data visualisation to identify trends, seasonality and relationships between variables.
 3. Modeling - We tested several models to determine the best fit for predicting stock prices: SARIMAX (Seasonal AutoRegressive Integrated Moving Average with eXogenous regressors): This model captures both time series patterns and external influences, handling seasonality and trends effectively.
 5. Evaluation - Metrics used include RMSE (Root Mean Square Error) and MAPE (Mean Absolute Percentage Error) to assess model performance and accuracy.
 6. Backtesting - Evaluating models on test data to validate their predictive capability and practical utility.
