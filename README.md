@@ -15,7 +15,7 @@ Singapore’s financial sector is a cornerstone of its economy, with major banks
 ## Problem Statement
 Navigating the fluctuating stock market, particularly within the banking sector, presents significant challenges due to both domestic and global economic influences.
 
-**Can machine learning models accurately predict stock prices of Singapore major banks?**
+**Can machine learning models accurately predict stock prices of Singapore's major banks?**
 
 
 --- 
