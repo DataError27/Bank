@@ -24,7 +24,9 @@ Navigating the fluctuating stock market, particularly within the banking sector,
 The dataset includes daily and monthly stock prices of DBS, OCBC, and UOB from Yahoo Finance, alongside additional macroeconomic data such as interest rates and bond yields. Key technical indicators such as Moving Averages (50-day, 200-day), Relative Strength Index (RSI), and other financial ratios were also calculated and used as exogenous variables in the models.
 
 Data Range: Historical stock data up to the current date
+
 Frequency: Daily for technical analysis; Monthly for seasonality and predictive modeling
+
 Data Size: Approximately 20 years of historical data for each bank
 
 ## Executive Summary
