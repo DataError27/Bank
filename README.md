@@ -91,4 +91,4 @@ In conclusion, this project demonstrates that machine learning models, particula
 
 The deployment of our Streamlit application offers users an accessible and interactive tool for making informed investment decisions based on these predictions. While the primary focus is on enhancing decision-making rather than guaranteeing financial success, the ability to forecast stock prices with greater precision can significantly benefit investors navigating the complexities of the financial market.
 
-The success of this project underscores the potential of machine learning in financial analysis and forecasting, paving the way for more sophisticated tools that can adapt to evolving market conditions and investor needs.
+The success of this project underscores the potential of machine learning in financial analysis and forecasting, paving the way for more sophisticated tools that can adapt to evolving market conditions and investor's needs.
