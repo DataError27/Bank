@@ -1,3 +1,4 @@
+![Alt text](https://raw.githubusercontent.com/DataError27/Bank/main/image.png)
 
 # Singapore Bank Stocks Analysis Tool
  - [Background](#Background)
