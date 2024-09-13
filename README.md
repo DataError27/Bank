@@ -79,7 +79,7 @@ Provides good performance but less suited for capturing temporal dependencies co
 Effective in handling non-linear relationships but shows slightly higher RMSE and MAPE than SARIMAX.
 
 
-Overall Summary
+**Overall Summary**
 
 SARIMAX emerged as the best model due to its capability to incorporate seasonality, trends, and external variables, with the lowest RMSE and MAPE values.
 FBProphet and Random Forest were also effective, but SARIMAX's comprehensive approach to time series data made it the preferred choice for accuracy and practical application.
