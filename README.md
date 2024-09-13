@@ -13,10 +13,9 @@
 Singapore’s financial sector is a cornerstone of its economy, with major banks such as DBS, OCBC, and UOB playing crucial roles. The stock prices of these banks are influenced by a variety of factors, including macroeconomic conditions, regulatory policies, and investor sentiment. Recent years have seen increased volatility due to a dynamic market environment and economic uncertainties. Predictive models that provide insights into future stock price movements are becoming essential for investors and financial analysts aiming to make informed decisions.
 
 ## Problem Statement
-Navigating the fluctuating stock market, particularly within the banking sector, presents significant challenges due to both domestic and global economic influences. This project explores whether machine learning models can predict the stock prices of Singapore’s major banks and how these predictions can be used to inform investment strategies.
+Navigating the fluctuating stock market, particularly within the banking sector, presents significant challenges due to both domestic and global economic influences. This project explores whether machine learning models can accurately predict the stock prices of Singapore’s major banks.
 
-**Can machine learning models serve as effective tools for guiding investment strategies?**
-
+**Can machine learning models accurately predict stock prices?**
 
 
 --- 
@@ -88,7 +87,7 @@ In conclusion, SARIMAX is our final model of choice for predicting Singapore ban
 ---
 ## Conclusion
 
-In conclusion, this project demonstrates that machine learning models, particularly SARIMAX, can be highly effective in predicting stock prices for Singapore’s major banks. By incorporating a range of technical indicators and macroeconomic variables, we have developed a model that not only forecasts future stock movements with notable accuracy but also provides valuable insights for strategic investment planning.
+In conclusion, this project demonstrates that machine learning models, particularly SARIMAX, can be highly effective in providing valuable insights for strategic investment planning, by incorporating a range of technical indicators and macroeconomic variables. Concurrently, it can be highly effective in predicting stock prices for Singapore's major banks and 
 
 The deployment of our Streamlit application offers users an accessible and interactive tool for making informed investment decisions based on these predictions. While the primary focus is on enhancing decision-making rather than guaranteeing financial success, the ability to forecast stock prices with greater precision can significantly benefit investors navigating the complexities of the financial market.
 
