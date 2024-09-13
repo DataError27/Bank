@@ -20,7 +20,7 @@ Navigating the fluctuating stock market, particularly within the banking sector,
 
 --- 
 ## Data Sources
-The dataset includes daily and monthly stock prices of DBS, OCBC and UOB from Yahoo Finance, alongside additional macroeconomic data such as interest rates and bond yields. Key technical indicators such as Moving Averages, Relative Strength Index (RSI) and other financial ratios were also calculated and used as exogenous variables in the models.
+The dataset includes daily and monthly stock prices of DBS, OCBC and UOB from Yahoo Finance, alongside additional macroeconomic data such as interest rates and bond yields. Key technical indicators such as Moving Averages (MAs), Relative Strength Index (RSI) and other financial ratios were also calculated and used as exogenous variables in the models.
 
 Data Range: Historical stock data up to the current date.
 
@@ -52,7 +52,7 @@ Key features used in the models include:
 
 Technical Indicators: RSI, Moving Averages (50-day, 200-day)
 
-Fundamental indicators: Dividends, Return on Assets and Equity, Cost / Income ratio
+Fundamental Indicators: Dividends, Return on Assets and Equity, Cost / Income ratio
 
 Macroeconomic Variables: Interest rates, Bond Yields, Treasury Bills
 
