@@ -87,7 +87,7 @@ In conclusion, SARIMAX is our final model of choice for predicting Singapore ban
 ---
 ## Conclusion
 
-In conclusion, this project demonstrates that machine learning models, particularly SARIMAX, can be highly effective in providing valuable insights for strategic investment planning, by incorporating a range of technical indicators and macroeconomic variables. Concurrently, it can be highly effective in predicting stock prices for Singapore's major banks and 
+In conclusion, this project demonstrates that machine learning models, particularly SARIMAX, can be highly effective in accurately predicting stock prices for Singapore's major banks. By incorporating a range of technical indicators and macroeconomic variables, the models have shown considerable success in forecasting future stock movements. This effectiveness underscores the potential of machine learning to address the challenges of predicting stock prices amid fluctuating market conditions.
 
 The deployment of our Streamlit application offers users an accessible and interactive tool for making informed investment decisions based on these predictions. While the primary focus is on enhancing decision-making rather than guaranteeing financial success, the ability to forecast stock prices with greater precision can significantly benefit investors navigating the complexities of the financial market.
 
