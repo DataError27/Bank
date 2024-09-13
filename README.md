@@ -13,9 +13,9 @@
 Singapore’s financial sector is a cornerstone of its economy, with major banks such as DBS, OCBC and UOB playing crucial roles. The stock prices of these banks are influenced by a variety of factors, including macroeconomic conditions, regulatory policies and investor sentiment. Recent years have seen increased volatility due to a dynamic market environment and economic uncertainties. Predictive models that provide insights into future stock price movements are becoming essential for investors and financial analysts aiming to make informed decisions.
 
 ## Problem Statement
-Navigating the fluctuating stock market, particularly within the banking sector, presents significant challenges due to both domestic and global economic influences. This project explores whether machine learning models can accurately predict the stock prices of Singapore’s major banks.
+Navigating the fluctuating stock market, particularly within the banking sector, presents significant challenges due to both domestic and global economic influences.
 
-**Can machine learning models accurately predict stock prices?**
+**Can machine learning models accurately predict stock prices of Singapore major banks?**
 
 
 --- 
