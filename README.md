@@ -31,7 +31,7 @@ Data Size: Approximately 20 years of historical data for each bank.
 ## Executive Summary
 **INTRODUCTION**
 
-This project aims to utilise machine learning models to forecast stock prices of major Singapore banks. The objective is to equip investors with tools to make more informed decisions, helping them manage risk effectively rather than just focusing on wealth accumulation.
+This project aims to utilize machine learning models to forecast stock prices of major Singapore banks. The objective is to provide investors with advanced tools to make more informed decisions, allowing them to effectively navigate market fluctuations and mitigate potential financial risks. By offering insights that help anticipate price movements and understand underlying market dynamics, the models are designed to assist investors in minimizing exposure to adverse market conditions and avoiding substantial losses, thus enhancing overall financial stability.
 
 
 **METHODOLOGY**
