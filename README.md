@@ -80,9 +80,9 @@ Effective in handling non-linear relationships but shows slightly higher RMSE an
 
 **Overall Summary**
 
-SARIMAX emerged as the best model due to its capability to incorporate seasonality, trends, and external variables, with the lowest RMSE and MAPE values.
+SARIMAX emerged as the best model due to its capability to incorporate seasonality, trends and external variables, with the lowest RMSE and MAPE values.
 FBProphet and Random Forest were also effective, but SARIMAX's comprehensive approach to time series data made it the preferred choice for accuracy and practical application.
-In conclusion, SARIMAX is our final model of choice for predicting Singapore bank stock prices, offering a balance of predictive accuracy and practical application for investors.
+In conclusion, SARIMAX is our final model of choice for predicting Singapore banks' stock prices, offering a balance of predictive accuracy and practical application for investors.
 
 ---
 ## Conclusion
