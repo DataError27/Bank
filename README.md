@@ -15,7 +15,7 @@ Singapore’s financial sector is a cornerstone of its economy, with major banks
 ## Problem Statement
 Navigating the fluctuating stock market, particularly within the banking sector, presents significant challenges due to both domestic and global economic influences. This project explores whether machine learning models can predict the stock prices of Singapore’s major banks and how these predictions can be used to inform investment strategies.
 
-**Can we use machine learning to predict stock prices accurately?**
+**Can machine learning models serve as effective tools for guiding investment strategies?Can machine learning models serve as effective tools for guiding investment strategies?**
 
 
 
