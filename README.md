@@ -50,13 +50,13 @@ The application was deployed on Streamlit and can be accessed through this [link
 
 Key features used in the models include:
 
-Technical Indicators: RSI, Moving Averages (50-day, 200-day)
+Technical Indicators: RSI, Moving Averages (50-day, 200-day).
 
-Fundamental Indicators: Dividends, Return on Assets and Equity, Cost / Income ratio
+Fundamental Indicators: Dividends, Return on Assets and Equity, Cost / Income ratio.
 
-Macroeconomic Variables: Interest rates, Bond Yields, Treasury Bills
+Macroeconomic Variables: Interest rates, Bond Yields, Treasury Bills.
 
-Seasonality Analysis: Monthly movements to capture recurring patterns
+Seasonality Analysis: Monthly movements to capture recurring patterns.
 
 
 **SIGNIFICANT FINDINGS**
