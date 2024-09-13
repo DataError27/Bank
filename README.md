@@ -54,7 +54,7 @@ Technical Indicators: RSI, Moving Averages (50-day, 200-day)
 
 Fundamental indicators: Dividends, Return on Assets and Equity, Cost / Income ratio
 
-Macroeconomic Variables: Interest rates, bond yields, treasury bills
+Macroeconomic Variables: Interest rates, Bond Yields, Treasury Bills
 
 Seasonality Analysis: Monthly movements to capture recurring patterns
 
